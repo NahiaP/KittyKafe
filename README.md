@@ -25,7 +25,7 @@ To go back to the start menu, press the 't' key on your keyboard. Note, this wil
 
 ## How to Save:
 
-If you want to save your progress, press the 's' key on your keyboard. To load your most recent save, press the 'l' key on your keyboard. This feature only works in the regular gamemode. 
+If you want to save your progress, press the 's' key on your keyboard. This saves the current customers and their desired orders, as well as your current score and lives. It does not save your current prepared order. To load your most recent save, press the 'l' key on your keyboard. This feature only works in the regular gamemode. 
 
 ## Other Gamemode
 
